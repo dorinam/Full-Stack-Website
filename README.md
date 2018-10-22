@@ -1,0 +1,2 @@
+# Website with User Authentication
+Website with User Authentication made by Dorina Mihai with Treehouse using: MongoDB, Mongoose, Node.js, NPM, Nodemon, Bcrypt, Mongoose, Express, Bcrypt, Body-parser, Connect-mongo, Pug and MongoStore (to handle thousands of users without bringing down the server).
